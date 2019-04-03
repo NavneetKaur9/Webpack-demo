@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+    src: url('./SourceSansPro-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.hello {
+    color: red;
+    font-family: 'Source Sans Pro';
+}
